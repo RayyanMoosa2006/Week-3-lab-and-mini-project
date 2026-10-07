@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Week 3 — Functions and Modules
 
 **Box we build this week:** `the wiring` — see `../system_diagram.md`
@@ -89,3 +90,6 @@ Nothing is marked this week. Everything is kept — see the CW1 specification fo
 | Threshold | drills D1–D3 + Threshold mini-project | pass |
 | Typical | + drills D4–D6 + Typical mini-project | mid |
 | Excellent | + drill D7 + Excellent mini-project | high |
+=======
+# Week-3-lab-and-mini-project
+>>>>>>> 73b71e3264bf046d73259097421430e4a52e130e
